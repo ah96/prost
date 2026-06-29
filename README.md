@@ -17,7 +17,7 @@
 >
 > These changes are backward-compatible (the reader still accepts header-less,
 > non-terminated messages). They were made while validating an RDDL explanation-
-> planning domain; see that project's `PROST_VALIDATION.md` for context.
+> planning domain.
 
 ## What is Prost?
 
